@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @Drakwrizz
-- 🌱 I’m currently learning programing at EPITA
+## About me
+
+- Hi, I’m @Drakwrizz
+- I’m currently learning programing at EPITA
+- I use archlinux btw.
+
 
 <!---
 Drakwrizz/Drakwrizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
